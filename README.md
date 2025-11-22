@@ -1,4 +1,3 @@
-<!-- ayusin q pa yan mamaya awa nalang wala aqng time -->
 # Greetings, I'm Rhona! 👾
 A computer science student who loves to create games and interactive websites
 
@@ -17,4 +16,3 @@ A computer science student who loves to create games and interactive websites
 
 ## 📜 Certifications
 - [SQL and Relational Databases 101 (Nov 2025)](https://courses.cognitiveclass.ai/certificates/73b3aa0bb9f04f9ba4eed8018eddfe7c)
-<!-- ANG HUHUSGA PANGET❗❗❗❗-->
