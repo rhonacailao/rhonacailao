@@ -1,16 +1,20 @@
-## Hi there 👋
+<!-- ayusin q pa yan mamaya awa nalang wala aqng time -->
+# Greetings, I'm Rhona! 👾
+A computer science student who loves to create games and interactive websites
 
-<!--
-**rhonacailao/rhonacailao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 💻 Skills
+- **Programming Languages:** Java, JavaScript, Lua
+- **Web Development:** HTML, CSS
+- **Game Development:** Godot, Unity 
+- **Database:** IBM DB2 Cloud
+- **Tools:** VSCode, Eclipse, Blender, Aseprite, Krita
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🎓 Education
+- **Angelo L. Loyola Senior High School** – STEM (2022 - 2024)
+- **New Era University** – BS Computer Science (2024 - Present)
+
+## 📜 Certifications
+- [SQL and Relational Databases 101 (Nov 2025)](https://courses.cognitiveclass.ai/certificates/73b3aa0bb9f04f9ba4eed8018eddfe7c)
+<!-- ANG HUHUSGA PANGET❗❗❗❗-->
