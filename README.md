@@ -1,5 +1,5 @@
 # Greetings, I'm Rhona! 👾
-A computer science student who loves to create games and interactive websites
+A computer science student who loves to create games and interactive websites.
 
 
 ## 💻 Skills
