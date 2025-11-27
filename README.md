@@ -2,7 +2,6 @@
 A computer science student who enjoys creating games and interactive websites.
 
 ## 🎓 Education
-- **Angelo L. Loyola Senior High School** – STEM (2022 - 2024)
 - **New Era University** – BS Computer Science (2024 - Present)
 
 ## 📜 Certifications
